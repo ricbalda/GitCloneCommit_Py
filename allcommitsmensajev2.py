@@ -10,9 +10,6 @@
 #
 # Companion App: all-gethub.py to get all repos for a user.
 
-# python3 ./allcommits.py -u ricbalda -d DirPrueba3 -r Prueba3 -l Solo para listar
-# python3 ./allcommits.py -u ricbalda -d DirPrueba3 -r Prueba3 -l
-# 2024-07-18 Copiado de .ignored ok
 
 import getopt
 import json
