@@ -1,0 +1,30 @@
+python3 ./allcommits.py -u ricbalda -d DirPrueba3 -r Prueba3 -l
+
+git clone https://ricbalda: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@github.com/owner/Rs1_R2_Repos_Principal.git
+
+python3 ./allcommits.py -u ricbalda -d DirRS1_2 -r Rs1_R2_Repos_Principal
+
+C:\D\GIT_Down_All_Commits
+
+ python3 ./allcommitsmensajev2.py -u ricbalda -d DirRS1_2 -r Rs1_R2_Repos_Principal
+ 
+
+Ejecuta el push desde cada carpeta al repos designado
+python3 ./Pushv1.py -u ricbalda -r Prueba3 -d C:\D\GIT_Down_All_Commits\DirPrueba3
+ 
+ 
+ -- Primera Corrida
+ C:\D\GIT_Down_All_Commits\DirRS1_100
+ Rs1_R2_Repos_Principal-2024-05-13-19-53-12Z-8182f8f6e5ba3cc5778822129f7910437072d30d
+ Rs1_R2_Repos_Principal-2024-05-13
+ 
+ 
+ git remote set-url origin https://github.com/git/git.git
+ 
+ 
+ C:\D\GIT_Down_All_Commits\DirPrueba3\Prueba3-2024-05-01-03-00-05Z-8ef86892e529a2cfbd852c0889e71881c608facf\Prueba3-2024-05-01-03-00-05Z-8ef86892e529a2cfbd852c0889e71881c608facf\Prueba3-2024-05-01-03-00-05Z-8ef86892e529a2cfbd852c0889e71881c608facf.txt
+ 
+ Prueba3-2024-05-01-03-00-05Z-8ef86892e529a2cfbd852c0889e71881c608facf
+ Rs1_R2_Repos_Principal-2024-05-13-16-56-45Z-87aee09fd33fafd1ba118c5e731a56b40267c8e8
+ 
+ 2024-05-01-03-00-05

@@ -1,0 +1,16 @@
+
+Estos Scripts se pueden por muchos motivos, yo los use por que estaba mal configurado
+    el .gitignore y no filtro lod DLLs etc.
+    Use el allcommitsmensajev2.py para clonar todos los commits en carpetas diferentes 
+    y crear un archivo txt con el mensaje del commit 
+    Una ves clonados todos los commit en carpetas indenpentiendes, uso el PushLocalRepo.py para 
+    generar el git add/commit/push al repo remoto, usando el archivo txt que contiene el mensaje y 
+    volver a generar los commits con el mensaje que se uso anteriormente.
+
+allcommitsmensajev2.py - Sirve para clonar el repos remoto a una carpetas locales indenpendientes por cada commit.
+
+PushLocalRepo.py - Sirve para que con el repo local generado en cada carpeta local, 
+                    genero git add/commit/push al repo remoto.
+
+    Los demas scripts son de prueba y solo sirven como aprendisaje de procesos de directorio.
+
